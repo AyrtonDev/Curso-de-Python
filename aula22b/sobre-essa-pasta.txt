@@ -1,0 +1,3 @@
+nesta pasta Treinei um pouco sobre criação de pacotes, nâo entedi muito sobre o como criar, já que o Prof. Gustavo Guanabara usava PyCharm, e eu o VsCode, se tinha algo importante a se fazer com o __init__.py
+Então decidir procura uma resolução desse meu problema, mas poucos falavam sobre a criação de modulos e pacote.
+Até que achei o site http://devfuria.com.br/python/modulos-pacotes/, que não so me explico bem, mas também trouxe boas dicas sobre atribuição de modulos em pacotes.
